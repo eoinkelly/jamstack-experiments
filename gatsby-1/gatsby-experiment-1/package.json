@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-experiment-1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gatsby Experiment 1",
+  "author": "Eoin Kelly",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.2.1",
+    "gatsby-plugin-sass": "^4.3.0",
+    "gatsby-source-filesystem": "^3.3.0",
+    "gatsby-transformer-remark": "^4.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.32.10"
+  }
+}
